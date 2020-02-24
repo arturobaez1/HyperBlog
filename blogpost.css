@@ -11,3 +11,18 @@ body {
     border: black solid 2px;
     margin: 0 auto;
 }
+
+#cabecera {
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
+    margin: 0;
+    padding: .5em;
+    background-color: #33a;
+    color: white;
+    font-weight: bold;
+}
+
+#tagline {
+    font-weight: normal;
+    text-align: center;
+    margin-left: auto;
+}
